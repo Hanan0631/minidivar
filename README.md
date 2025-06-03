@@ -17,21 +17,6 @@ A simplified classified ads web application built with React and Vite, featuring
 - **Frontend:** React, Vite, React Router DOM, React Query
 - **Backend:** Node.js, Express (in separate repo)
 - **Database:** MongoDB
-- **Authentication:** Custom OTP system
-
-## 📂 Project Structure
-
-
-/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   └── ...
-├── .env
-└── package.json
-
 
 ## 🧪 Getting Started
 
@@ -39,7 +24,6 @@ A simplified classified ads web application built with React and Vite, featuring
 
 bash
 git clone https://github.com/Hanan0631/minidivar.git
-cd MiniDivar
 npm install
 
 
