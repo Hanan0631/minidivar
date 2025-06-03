@@ -1,0 +1,32 @@
+.details {
+    max-height: 100vh;
+  display: flex;
+  margin-top: 60px;
+}
+
+.image {
+  width: 100%;
+}
+
+.image img {
+  border-radius: 5px;
+}
+
+.description {
+  width: 100%;
+}
+
+.description h3 {
+  font-size: 1.7rem;
+  margin-bottom: 20px;
+}
+
+.description p {
+  color: grey;
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+.description span {
+  color: grey;
+}
